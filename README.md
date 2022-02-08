@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Azongo-cmd/Azongo-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,9 +8,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<img
-  src="https://github-readme-stats.vercel.app/api/?username=Azongo-cmd&theme=dracula"
-/>
+<h2>Technologies</h2>
+<h2>Most enjoying projects</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azongo-cmd&repo=automate_your_mpls&theme=dracula)](https://github.com/Azongo-cmd/github-readme-stats)
+<h2>Github stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azongo-cmd&layout=compact&theme=dracula)](https://github.com/Azongo-cmd/github-readme-stats)
+
+
+
