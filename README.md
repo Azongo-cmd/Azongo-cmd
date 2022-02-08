@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img
-  align="center"
   src="https://github-readme-stats.vercel.app/api/?username=Azongo-cmd&theme=dracula"
 />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azongo-cmd&layout=compact&theme=dracula)](https://github.com/Azongo-cmd/github-readme-stats)
